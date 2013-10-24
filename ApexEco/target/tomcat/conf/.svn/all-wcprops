@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ecotronyx/!svn/ver/64/trunk/Apex/experiment/ApexEco/target/tomcat/conf
+END
+tomcat-users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ecotronyx/!svn/ver/64/trunk/Apex/experiment/ApexEco/target/tomcat/conf/tomcat-users.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ecotronyx/!svn/ver/64/trunk/Apex/experiment/ApexEco/target/tomcat/conf/web.xml
+END
